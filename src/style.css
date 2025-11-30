@@ -1,0 +1,10 @@
+src/
+ ├─ api/
+ │   └─ finance.js
+ ├─ components/
+ │   └─ FinanceDemo.jsx
+ ├─ firebase/
+ │   └─ firebase.js
+ ├─ App.jsx
+ └─ main.jsx
+{}
